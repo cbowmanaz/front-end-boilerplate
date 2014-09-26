@@ -1,0 +1,27 @@
+{
+  "name": "front-end-boilerplate",
+  "version": "0.1.0",
+  "description": "Front end boiler plate with gulp, susy, breakpoint, compass, imagemin, autoprefixer, sass-globbing, browsersync, modernizer, favicon, html5 boilerplate, bower",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cbowmanaz/front-end-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbowmanaz/front-end-boilerplate/issues"
+  },
+  "homepage": "https://github.com/cbowmanaz/front-end-boilerplate",
+  "devDependencies": {
+    "browser-sync": "^1.5.1",
+    "favicons": "^1.3.5",
+    "gulp": "^3.8.8",
+    "gulp-autoprefixer": "^1.0.1",
+    "gulp-compass": "^1.3.1",
+    "gulp-imagemin": "^1.0.1"
+  }
+}
