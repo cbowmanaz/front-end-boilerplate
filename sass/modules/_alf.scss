@@ -1,0 +1,30 @@
+body {
+}
+
+.alf__container {
+	@include container();
+}
+	.alf__wrapper {
+		width: span(6);
+		margin: 0 auto;
+		padding: 2em;
+		text-align: center;
+
+		p { 
+			padding-top: 1em;
+		}
+
+		img {
+			width: 100%;
+			height: auto;
+		}
+
+		.text {
+			font-size: 2em;
+		}
+		
+		.included {
+			padding: 1em;
+			background: #cecece;
+		}
+	}
